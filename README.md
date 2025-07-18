@@ -31,7 +31,7 @@ A fully responsive and modern **Food Delivery Web Application** built with React
 
 | Home Page                      | Cart Page                      |
 |-------------------------------|--------------------------------|
-| ![image alt](https://github.com/PKSNSenevirathna/expense_tracker/blob/36fc987d0791859cdf5dabea2b88dc1ae8f8114e/Screenshot%20.png) | ![image alt](https://github.com/PKSNSenevirathna/expense_tracker/blob/36fc987d0791859cdf5dabea2b88dc1ae8f8114e/Screenshot%20.png) |
+| ![image alt]([https://github.com/PKSNSenevirathna/expense_tracker/blob/36fc987d0791859cdf5dabea2b88dc1ae8f8114e/Screenshot%20.png](https://github.com/PKSNSenevirathna/food-delivery-react/blob/e79f16090170e2ecb5c2fc2c4a558d5616042c64/Screenshot%20(Home).png)) | ![image alt](https://github.com/PKSNSenevirathna/expense_tracker/blob/36fc987d0791859cdf5dabea2b88dc1ae8f8114e/Screenshot%20.png) |
 
 ---
 
