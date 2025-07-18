@@ -29,11 +29,9 @@ A fully responsive and modern **Food Delivery Web Application** built with React
 
 ## 📸 Screenshots
 
-> *(Add your images to a `/screenshots` folder and update these links)*
-
 | Home Page                      | Cart Page                      |
 |-------------------------------|--------------------------------|
-| ![Home](screenshots/home.png) | ![Cart](screenshots/cart.png)  |
+| ![image alt](https://github.com/PKSNSenevirathna/expense_tracker/blob/36fc987d0791859cdf5dabea2b88dc1ae8f8114e/Screenshot%20.png) | ![Cart](screenshots/cart.png)  |
 
 ---
 
